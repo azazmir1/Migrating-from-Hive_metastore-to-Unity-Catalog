@@ -16,4 +16,6 @@ What's Inside:
 
 🍴 Fork and Try: Feel free to fork this repository and experiment with the migration process in your own Databricks environment. Get hands-on experience and tailor the solution to your unique requirements.
 
+Feel free to ping me if you have any queries!
+
 Ready to embark on a seamless migration journey? Let's unite your metadata with Unity Catalog and unlock new possibilities for your data infrastructure!
